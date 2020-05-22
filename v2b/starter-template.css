@@ -1,0 +1,25 @@
+body {
+  padding-top: 5rem;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2em;
+  font-weight: bold;
+  color:#942828;
+}
+
+a:hover {
+  color:#000000;
+}
+
+.lineref {
+  font-size: 1.25rem;
+  font-weight: 300;
+  color:#000000;
+}
+
+.hashtag {
+  font-weight: bold;
+  color:#fcb103;
+}
